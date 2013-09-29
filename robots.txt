@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://estromlund.github.io/sitemap.xml 
