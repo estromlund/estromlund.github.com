@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://estromlund.github.io/sitemap.xml 
+Sitemap: http://blog.erikstromlund.com/sitemap.xml
