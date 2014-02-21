@@ -4,7 +4,9 @@ url: http://blog.erikstromlund.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
-# Theme customization - please change from the defaults!
+permalink: none
+
+# Logam Theme customization
 theme:
   # Color for top bar, links, etc
   highlight_color: '#3c7bda'
@@ -25,7 +27,6 @@ theme:
   # "Hi, I'm _______"
   name: Erik Stromlund
   email: erik@erikstromlund.com
-  tagline: "Currently traveling and coding."
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-26994379-1
