@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: First post! (and how you can setup your Jekyll blog on GitHub, too)
 ---
 Testing 1,2,3...am I on?
 
