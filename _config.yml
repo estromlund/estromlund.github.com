@@ -5,6 +5,7 @@ lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
 permalink: none
+markdown: redcarpet
 
 # Logam Theme customization
 theme:
