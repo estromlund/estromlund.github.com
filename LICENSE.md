@@ -9,7 +9,7 @@ The framework, including the original by Matt Swanson, and any modifications the
 
 **The MIT License**
 
-Modifications: Copyright (c) Erik Stromlund, http://www.erikstromlund.com
+Modifications: Copyright (c) Erik Stromlund, https://www.erikstromlund.com
 
 Original: Copyright (c) Matt Swanson, http://mdswanson.com
 

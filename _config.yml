@@ -1,6 +1,6 @@
 # General Jekyll Config
 pygments: true
-url: http://blog.erikstromlund.com
+url: https://blog.erikstromlund.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
@@ -33,4 +33,4 @@ theme:
   google_analytics_key: UA-26994379-1
 
   # Toggle "Postings are my own" disclaimer in footer
-  show_disclaimer: false
+  show_disclaimer: true
