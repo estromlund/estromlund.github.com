@@ -35,13 +35,15 @@ Tickets are checked randomly by undercover ticket inspectors. You will often not
 
 Berlin has a very international food scene. That said, there are a few German specialties that I recommend trying:
 
-- Schnitzel: You probably know this one. It's (typically) pork, hammered thin, breaded and fried. Usually served with Bratkartoffeln (fried potatoes), or potato salad. Note: *wiener*schnitzel is a specific kind of schnitzel from Vienna and is made from veal. There are many other kinds of schnitzel. Try them all :)
+- Schnitzel: You probably know this one. It's (typically) pork, hammered thin, breaded and fried. Usually served with Bratkartoffeln (fried potatoes), or potato salad. Note: *wiener*schnitzel is a specific kind of schnitzel from Vienna and is made from veal then served plain with a lemon. There are many other kinds of schnitzel. Try them all :)
 
-- Currywurst: A specialty from Berlin, this is basically a bratwurst (sausage), cut up then covered with a curry-ketchup sauce. Often served with french fries ("pommes").
+- Currywurst: A specialty from Berlin, this is basically a bratwurst (sausage), cut up then smothered with a curry-ketchup sauce. Often served with french fries ("pommes").
 
 - Döner: This Turkish specialty is as Turkish as the burrito is Mexican. It is found everywhere, and is typically best eaten after 2am.
 
 - Spargel (asparagus): UIKonf is right in the middle of Spargel season, which, yes, is [a thing](http://www.slowtravelberlin.com/seasonal-recipes-may-2013/). I suggest trying a dish with the white asparagus ("weißer Spargel") -- typically this is served wrapped in ham, next to potatoes, and all coated in hollandaise sauce. What's not to like?!
+
+If you want to experience some over-the-top, Bavarian-style food and drink (minimum beer size: 0.5L), go to [Hofbräu](http://www.hofbraeuhaus-berlin.de/) near Alexanderplatz. This is *not* typical Berlin, but it is fun.
 
 Beyond these, you can also eat pretty much any food in Berlin (except good Mexican food). In fact, sometimes it can be hard to find a good "German" meal in Berlin.
 
@@ -51,7 +53,7 @@ Welcome to the beer capital of the world. Beer in Berlin is everywhere, and chea
 
 #### German Beers
 
-The typical German beer is a pilsner and various brands will be on tap at nearly every bar (try Augustiner, Becks, or the new, no-brand "Bier"). If you're not a fan, or get tired of the ubiquitous pilsner, you can also try the Hefeweizens (wheat beers), Schwarzbiers (black beers), and...that's about it for German beers.
+The typical German beer is a pilsner and various brands will be on tap at nearly every bar (try Augustiner, Becks, Krombacher, or the new, no-brand "Bier"). If you're not a fan, or get tired of the ubiquitous pilsner, you can also try the Hefeweizens (wheat beers), Schwarzbiers (black beers), and...that's about it for German beers.
 
 #### Craft Beers
 
@@ -71,13 +73,13 @@ If you sit down to eat somewhere, you will have to ask for the check when you ar
 
 Berlin, and Germany in general, is full of history spanning many different eras. It has been rebuilt numerous times, and just united as one city in 1989. In fact, Berlin is still blossoming and is benefiting from the strong German economy -- look around and you will see construction everywhere.
 
-Though it shouldn't need to be said, Germans are generally not fans of discussing their history, and experience a "collective guilt" for the things their not-so-distant relatives were a part of. Don't make jokes about it, just let it be.
+Germans love discussing history, but are generally not fans of discussing parts of their own history due to the "collective guilt" for the things their not-so-distant relatives were a part of. Don't make jokes about it, just let it be.
 
 ### See the city
 
 I highly recommend taking a walking tour to see the highlights of the city. My favorite is the [free Sandemans New Europe Walking Tour](http://www.newberlintours.com/daily-tours/free-tour.html). It meets several time a day (currently 10am, 11am, 2pm, and 4pm) at the Starbucks (Americans Assemmmble!!!!) near the Brandenburg Gate. It lasts about 3 hours and the guides are phenomenal. The tour itself costs nothing, though you are encouraged to pay the guide at the end however much you feel the tour was worth.
 
-If you don't want to do an organized walking tour, then I suggest starting at Alexanderplatz, walking down Unter den Linden to the Brandenburg Gate and Reichstag, and then wandering through the Tiergarten.
+If you don't want to do an organized walking tour, then I suggest starting at Alexanderplatz and walking down Unter den Linden to the Brandenburg Gate and Reichstag. From there, walk down through the Tiergarten, past the Siegessäule and towards the zoo. There is a great beer garden right there ([Cafe am neuen See](http://www.cafeamneuensee.de)), and you can find public transportation to almost anywhere from the Zoologischer Garten train station right there.
 
 #### Other Sights
 
