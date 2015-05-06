@@ -3,7 +3,7 @@ layout: post
 title: UIKonfer's Guide to Berlin
 ---
 
-I couldn't be more excited to attend [UIKonf](https://www.uikonf.com), Berlin's "independent conference for serious iOS developers", which will take place May 17-20.
+I couldn't be more excited to attend [UIKonf](https://www.uikonf.com), Berlin's "independent conference for serious iOS developers", which will take place May 17-20, 2015.
 
 Since so many attendees will be visiting from cities outside of Berlin or even Europe, I wanted to write a quick blog post with a few tips from the perspective of someone who moved from San Francisco in February 2014, and who now is proud to call Berlin my home.
 
@@ -23,11 +23,13 @@ It is spring time here in Berlin, and that means the weather is warm, muggy, and
 
 Berlin is really easy to get around. Walking and public transportation are the easiest, and you can use Google Maps or any other transit app to find your connections. Taxis are also available everywhere, but public transportation is cheaper and often just as fast.
 
-For public transportation, you will only need to buy one ticket (currently 2.60 Euro) for the S-Bahn (above ground train), U-Bahn (subway) or tram/metro (street car) within the main parts of Berlin. This is good for 120 minutes *in one direction*. Make sure to buy another ticket for your return trip, even if within the 2 hour window.
+For public transportation, you will only need to buy one ticket (currently 2.70 Euro) for the S-Bahn (above ground train), U-Bahn (subway) or tram/metro (street car) within the main parts of Berlin. This is good for 120 minutes *in one direction*. Make sure to buy another ticket for your return trip, even if within the 2 hour window.
 
 For S-Bahn and U-Bahn, you need to purchase a ticket at the station **and then validate it** before getting on the train. For the tram/metro, you can buy tickets onboard.
 
 Tickets are checked randomly by undercover ticket inspectors. You will often not be checked, but if you are, and don't have a ticket, you will be fined 40 Euro. The fine can paid on the spot or a bill mailed to you.
+
+*Note that there have been strikes in the last few months, which means the S-Bahn is shut down from time to time. Check the [BVG](http://www.bvg.de/en/) website for real-time updates, including transport options when closures are in effect.*
 
 ### Eating
 
